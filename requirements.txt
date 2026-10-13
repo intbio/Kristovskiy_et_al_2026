@@ -1,0 +1,15 @@
+# Научный стек
+numpy
+scipy
+matplotlib
+tqdm
+
+# Структурная биология
+MDAnalysis
+pypdb
+nglview
+
+# Jupyter (ноутбуки в VS Code)
+ipykernel
+ipywidgets
+ipympl
